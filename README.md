@@ -9,4 +9,7 @@ when using htlm syntex and you want to enphasisis on something you have to use t
 when debugging and troubleshoting is basicslly about find an error in the code you working on or the one you are given also you shold check on the requirements needed on the code you working on
 we use attributes to make changes to any htlm tangs. the attribute is always followed by the value of the thing you want to to make changes on
 ARIA ROLE THESE ARE THE EXTRA ATTRIBUTES THAT YOU CAN ADD ON YOU ELEMENTs to make them more meaningful and understatable to other browsers when presenting. when you want to provide essensial information to assesive te chnologies such as sceen readers and mignifiers to ensure that the website you created is easly accessable. all this aria role started when web started replacing native applications to ensure a full use of the application.
-FORMATTNG HTLM
+htlm navigation and links
+htlm links to create them are usuaLLY EASY NIN TERMS OF CODE. it also has an impact on information sharing, computing and our morden world as a whole is truly profound, we encount link everywhere we go, navigations bars packs with information
+when creating a link we use the lement "a" which is an enchor. this element is inline so it can be placed within a paragraphy.
+the difference between HTTP and HTTPS is that the "s" in HTTPSstands for secure which means these days you can never login your personal details and everyone can be able to access them withut your permission since it is highly protected while in HTTP your details were at risk of being used by anyone since there was no high security back in the days. when creating a link as a content creator you have to incude yourself
