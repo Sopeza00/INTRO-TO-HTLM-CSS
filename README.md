@@ -13,3 +13,31 @@ htlm navigation and links
 htlm links to create them are usuaLLY EASY NIN TERMS OF CODE. it also has an impact on information sharing, computing and our morden world as a whole is truly profound, we encount link everywhere we go, navigations bars packs with information
 when creating a link we use the lement "a" which is an enchor. this element is inline so it can be placed within a paragraphy.
 the difference between HTTP and HTTPS is that the "s" in HTTPSstands for secure which means these days you can never login your personal details and everyone can be able to access them withut your permission since it is highly protected while in HTTP your details were at risk of being used by anyone since there was no high security back in the days. when creating a link as a content creator you have to incude yourself
+<h1>GOOD MORNING</h1>
+<P>hOW ARE YOU THIS MORNING?</P>
+<P>I AM GOOD AND YOURSELF</P>
+<p>WHAT DO YOU WANT TO DO TODAY?</p>
+<P>I WANT TO START CODING</P>
+
+<P>THIS IS A <STRONG>ORDERED LIST</STRONG></P>
+<OL><LI>WAKE UP AT 6</LI>
+<LI>BATH</LI>
+<LI>EAT BREAKFASTS AT 07🕥</LI>
+<LI>GO TO YOUR BUS STOP FOR A TAXI</LI>
+<LI>GET TO WORK AND START WORKING</LI></OL>
+
+<P>MAKE A LINK FOR YOURSELF SISIPHO</P>
+<A>HREF="HTTPS://WWW.SISIPHO.COM/" TITLE="GET TO KNOW ME"</A>
+
+<P>MAKE AN <B>UNORDERED LIST</B></P>
+<Ul><LI>BOOK</LI>
+<LI>EGGS</LI>
+<LI>GREEN TEA</LI>
+<LI>HOT WATER</LI>
+<LI>FRUIT</LI>
+<LI>RENT</LI></Ul>
+
+<P>THE TIME IS <CITI>13🕓</CITI></P>
+
+<H1>WELCOME BACK!</H1>
+
