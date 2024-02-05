@@ -41,3 +41,31 @@ the difference between HTTP and HTTPS is that the "s" in HTTPSstands for secure 
 
 <H1>WELCOME BACK!</H1>
 
+
+UNIT 5
+
+IMAGES
+images are what make a cover page or an home page for your website more attractive.
+it has FOUR ATTRIBUTES namely:-
+source attribute (SRC) this one tells us which image is good to upload
+alt attribute (ALT) this one shows the description of an image
+width and leghth attribute thois tells us the size of the image
+It does not matter whether the height or the width is specified first. In HTML, the order of attributes within an element can be whatever you prefer.
+
+IMAGE FORMAT
+There are FOUR types of how images are formatted and they namely as follows:-
+GIF- these are the compressing illustraions of large areas
+SVG- these are perfect for webpages where you will be able to create logos and icons infact it can be use for any type of illustraion. you can scale it to any size tyou want without it losing its quality, it is also a programming language for graphics.
+JPG- digital camras use this kind of format on the images, it is mostly used to compress photographs. this format can find balance on size and quality when it is used to compress an image.
+PNG- this one is used when you want transperancy on the photographs. you can also use it to combine GIF&SVG images.
+
+RESPONSIVE IMAGES
+The css provides a solutin for displaying images on large or small screens wheather in different sizes and quality
+It is important to note that in a typical web browsing scenario, where users view a web page on a single screen with a fixed viewport size, only the appropriate image file is downloaded, saving on unnecessary downloads. 
+
+UNIT 6
+
+WORKING EITH MEDIA
+WORKING WITH AUDIO
+Audio is the same as images it has diffent kind of formarts
+
