@@ -65,7 +65,12 @@ It is important to note that in a typical web browsing scenario, where users vie
 
 UNIT 6
 
-WORKING EITH MEDIA
+WORKING wITH MEDIA
 WORKING WITH AUDIO
-Audio is the same as images it has diffent kind of formarts
+Audio is the same as images it has diffent kind of formarts but it has openind and closing taps with makes it modern and flexing and mor powerful.
+when adding the çontrol' attribute it give you more power to be able to create your own thing without starting from strach.
+There are other attributes that can be used with the audio element too. For example, "loop" will make the file repeat from the beginning once it reaches the end. "Autoplay" can automatically play the audio as soon as the page loads, but be cautious with this one as most people dislike it when audio starts playing on a webpage without their consent. 
+WORKING WITH VIDEOS
+
+
 
