@@ -71,6 +71,29 @@ Audio is the same as images it has diffent kind of formarts but it has openind a
 when adding the çontrol' attribute it give you more power to be able to create your own thing without starting from strach.
 There are other attributes that can be used with the audio element too. For example, "loop" will make the file repeat from the beginning once it reaches the end. "Autoplay" can automatically play the audio as soon as the page loads, but be cautious with this one as most people dislike it when audio starts playing on a webpage without their consent. 
 WORKING WITH VIDEOS
+we use te element <video> to fix videos on to web pages. the video element also have close and open tags 
+there are two types of video formats we are familiar with which are:-
+standard quality trhis one caters for videos with low resolutions and less data it is also known as MP4
+high difinition(HD) this one has good quality wich caters for the videos with high resolution and has large data and high pixels
+Due to the intricacies involved, it is common for websites to utilize embed codes from video hosting services rather than directly employing the video element. This choice is often made to simplify the process and leverage the capabilities provided by such services.
+
+CAPTION AND SUBTITLES
+CAPTION
+this one is a texual representation of the audio in a video, it helps those who can not understand the content on the video
+SUBTITLE
+this one allows a user to be able to change language on the video to the language they will be able to understand.
+
+EMBENDDING MEDIA VIA IFRAME
+Embedding refers to taking content from one site and placing it within the middle of another site's page. 
+iframe is ude to display a webpage or document within a webpage.
+
+HTML Content Identification
+HTML Language Support 
+ In HTML, there are tools to indicate the language of your content.
+ It is important for computers to know the language of the content it is processing. If the whole page is in one language, it is quite simple
+
+
+
 
 
 
