@@ -128,6 +128,8 @@ FORMS
 
 HTML Generic Elements, Div and Span
 the element <div> is used for blocks and the element <span> is used to part lines
+divs are used to create sections,sidebars and everything in between. before 2010 people using html used to rely more on div element  for all sorts of purposes.
+technically you can get away with everything if you are using div and span elements
 
 HTML Integration
 HTML Page
@@ -140,6 +142,8 @@ Once the HTML file is built, there are a few crucial parts that every web page n
 Firstly, the file should begin with a doctype statement, which indicates the era of this HTML file. In the past, there were different doctype declarations for older HTML versions. By including this one, we are saying, "Hey, this is a modern web page, so follow modern best practices and treat it accordingly." 
 Next, we enclose everything else on the page within an HTML element, which means an element named HTML. It tells us that all the content within it is HTML. Place the opening HTML tag at the top and the closing HTML tag at the bottom. 
 in HTML elements there are two main part where everything goes body and head. The head contains all the metadata that the browser needs to know but will not display on the page. The body, on the other hand, is for all the content and is composed of various elements already discussed in this course. The body is where most of the action happens. The doctype declaration, HTML head, and body elements are the essential building blocks of every web page.
+
+UTF-8 it is the stardand format for unicode used to electronically commuticate.
 
 Document Head
 The HTML head serves as a central hub for connecting and setting up various components, ensuring that all assets are loaded and sharing page information with other sites and platforms. In a way, it is like the headquarters for getting the page off to a good start. Inside the head of a webpage, you put important information that the browser needs to know about the website. 
